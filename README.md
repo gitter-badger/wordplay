@@ -1,6 +1,8 @@
 Demo
 -----
 
+[![Join the chat at https://gitter.im/mvillis/wordplay](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mvillis/wordplay?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Live Site (hosted on Heroku)](https://word-play.herokuapp.com)
 
 Setup
